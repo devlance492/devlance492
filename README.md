@@ -1,6 +1,6 @@
 <div align="center" width="50%">
 
-<!-- CLEAN GIF WITHOUT ANY NAME -->
+
 <img src="https://raw.githubusercontent.com/rajput-hemant/rajput-hemant/main/intro.gif" alt="Hello Coders" width="60%"/> 
 <br>
 
@@ -14,16 +14,15 @@
   </p>
 </details>
 
-<!-- PROFILE VIEW + HITS + SOCIALS -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=devlance492&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devlance492&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-<!-- Email -->
-<a href="mailto:babudebjit9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=babudebjit9@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_me-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/debjit-babu/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
@@ -34,11 +33,11 @@
 
 <hr>
 
-<!-- ===================== TOOLS I USE ===================== -->
+
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 
-<!-- LANGUAGES -->
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/bbadge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -47,7 +46,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<!-- DATA & ML -->
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=000000)
@@ -57,38 +56,36 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv5/YOLOv8-00FFFF?style=flat)
 
-<!-- BACKEND -->
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-<!-- DEPLOYMENT -->
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-<!-- DATABASE -->
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<!-- TOOLS -->
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-<!-- HARDWARE -->
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-<!-- ENVIRONMENT -->
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
-<!-- EDITOR -->
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-<!-- VISUALIZATION -->
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white)
 
 
 
 ```dart
 
-// tools_I_use organized 
+
 
 class About extends Me { 
   const myTools = {  
